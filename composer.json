@@ -1,0 +1,24 @@
+{
+    "name": "lovefc/Curl",
+    "keywords": [
+        "php",
+        "curl",
+		"php curl"
+    ],	
+    "description": "一个方便的curl库封装",
+    "authors": [
+        {
+            "name": "lovefc",
+            "email": "lovefc@88.com",
+            "homepage": "https://lovefc.cn/"
+        }
+    ],
+    "homepage": "https://github.com/lovefc/PHPCurl.git",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+	"autoload": {
+	   "psr-4": { "lovefc\\": "src"}
+	}
+}
