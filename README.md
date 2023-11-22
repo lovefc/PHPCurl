@@ -6,7 +6,7 @@
 
 ```
 
-composer require --dev lovefc/Curl
+composer require --dev lovefc/phpcurl
 
 ```
 
